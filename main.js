@@ -120,7 +120,7 @@ var totalTransactions = transactions.length;
 
 console.log( 'The total number of transactions is:', totalTransactions );
 
-
+The total number of transactions is: 10
 // --------------------------------------------------
 // QUESTION 01
 // --------------------------------------------------
